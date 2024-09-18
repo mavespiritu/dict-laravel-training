@@ -1,0 +1,1 @@
+<a href="" {{ $attributes->merge(['class' => 'btn']) }}>test</a>
